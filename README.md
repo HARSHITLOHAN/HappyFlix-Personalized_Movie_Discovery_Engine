@@ -1,7 +1,7 @@
-# Movie-Recommendation-System
+# HappyFlix – Personalized Movie Discovery Engine
 
 Overview
-The Movie Recommendation System is a personalized web application designed to recommend movies based on user preferences using collaborative filtering algorithms. It leverages data analysis to provide personalized movie suggestions, offering an enhanced user experience.
+The HappyFlix is a personalized web application designed to recommend movies based on user preferences using collaborative filtering algorithms. It leverages data analysis to provide personalized movie suggestions, offering an enhanced user experience.
 
 This project was developed using a combination of HTML/CSS, Tailwind CSS, MovieAPI, Git, Jupyter, and Flask to create a seamless and intuitive movie recommendation platform.
 
