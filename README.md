@@ -49,5 +49,5 @@ How It Works
 The system takes user input in the form of movie preferences and behavior (e.g., liked movies, ratings).
 
 The Collaborative Filtering algorithm analyzes the data and identifies similarities between users.
----
+
 
