@@ -50,4 +50,7 @@ The system takes user input in the form of movie preferences and behavior (e.g.,
 
 The Collaborative Filtering algorithm analyzes the data and identifies similarities between users.
 
+---
+Deployed Online
 
+Live Demo: https://recommendationsystem.onrender.com
